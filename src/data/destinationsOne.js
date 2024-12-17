@@ -1,0 +1,78 @@
+const destinationsOne = [
+  {
+    id: 1,
+    image: "destination-1-1.png",
+    title: "Cox's Bazar",
+    tours: 6,
+    col: 3,
+  },
+  {
+    id: 2,
+    image: "destination-1-2.png",
+    title: "Sundarbans",
+    tours: 6,
+    subTitle: "Wildlife",
+    col: 6,
+  },
+  {
+    id: 3,
+    image: "destination-1-3.png",
+    title: "Saint Martin's Island",
+    tours: 6,
+    col: 3,
+  },
+  {
+    id: 4,
+    image: "destination-1-4.png",
+    title: "Srimangal",
+    tours: 6,
+    col: 6,
+  },
+  {
+    id: 5,
+    image: "destination-1-5.png",
+    title: "Bandarban",
+    tours: 6,
+    subTitle: "Adventure",
+    col: 6,
+  },
+  {
+    id: 6,
+    image: "destination-1-6.png",
+    title: "Rangamati",
+    tours: 6,
+    col: 3,
+  },
+  {
+    id: 7,
+    image: "destination-1-7.png",
+    title: "Sylhet",
+    tours: 6,
+    subTitle: "Adventure",
+    col: 6,
+  },
+  {
+    id: 8,
+    image: "destination-1-8.png",
+    title: "Paharpur",
+    tours: 6,
+    subTitle: "Tours",
+    col: 3,
+  },
+  {
+    id: 9,
+    image: "destination-1-9.png",
+    title: "Kuakata",
+    tours: 6,
+    col: 6,
+  },
+  {
+    id: 10,
+    image: "destination-1-10.png",
+    title: "Lalbagh Fort",
+    tours: 6,
+    col: 3,
+  },
+];
+
+export default destinationsOne;
